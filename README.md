@@ -1,5 +1,3 @@
-# learn_playwright
-# learn_playwright
 # Learn Playwright: A Comprehensive Guide to Browser Automation
 
 ## Introduction
